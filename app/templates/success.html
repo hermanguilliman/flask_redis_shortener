@@ -1,0 +1,10 @@
+{% extends "base.html" %} {% block content %}
+<div>
+    {% if urls %}
+        your short url is: {{ urls.short }} <br>
+        your full url is: {{ urls.full }}
+    {% else %}
+        Something went wrong. Url is not shorted!
+    {% endif %}
+</div>
+{% endblock %}

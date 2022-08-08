@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    color: wheat;
+    font-family: Consolas;
+    text-align: center;
+}
+
+.welcome {
+    font-size: 20 px;
+    max-width: 500 px;
+}
+
+a {
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+input#url {
+    width: 300pt;
+}
+
+input#submit {
+    width: 150pt;
+}
