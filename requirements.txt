@@ -1,5 +1,5 @@
 aioredis==2.0.1
-Flask==2.1.2
+Flask==2.3.3
 Flask-Bootstrap==3.3.7.1
 flask-redis==0.4.0
 Flask-WTF==1.0.1
